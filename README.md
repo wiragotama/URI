@@ -1,2 +1,2 @@
-# URI-Online-Judge
-My accepted answer on URI Online Judge
+# URI Online Judge / URI / UOJ
+My accepted answers on URI Online Judge
