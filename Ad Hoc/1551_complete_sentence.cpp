@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 //URI 1551 Complete Sentence
+=======
+>>>>>>> 35dd4f8f26c748d2f0d8618d77d3f11e355ad743
 #include <iostream>
 #include <cstdio>
 #include <string>
@@ -37,4 +40,8 @@ int main()
 		}
 	}
 	return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 35dd4f8f26c748d2f0d8618d77d3f11e355ad743
