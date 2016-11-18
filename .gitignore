@@ -34,4 +34,4 @@ main
 output
 input.txt
 output.txt
-
+*.DS_Store
