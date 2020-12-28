@@ -34,5 +34,9 @@ main
 output
 input.txt
 output.txt
+<<<<<<< HEAD
 .DS_Store
 
+=======
+*.DS_Store
+>>>>>>> 82b3909216efa005b527a97848aab509e7b1e8a1
